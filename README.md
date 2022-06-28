@@ -1,2 +1,2 @@
-# Penjelasan-C-
+# Penjelasan-C++
 Penjelasan-C++
